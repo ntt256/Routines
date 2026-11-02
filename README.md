@@ -8,7 +8,7 @@
     <h1>Routines Web Application</h1>
     <h2>Description: A website to provide individuals, teams, and organizations create and manage routines and procedures.  </h2>
   
-    <h2> Getting Started </h2>
+    <h2>Getting Started</h2>
     For Docker users: 
     For manual installation: 
     
